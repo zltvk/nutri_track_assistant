@@ -16,7 +16,7 @@ Current version includes core functionality for data entry and reporting.
   - "Goal vs Actual" calorie tracking bars.
 
 ## Visualizations
-![Calorie Status](docs/status_chart.png)
+![Calorie Status](docs/status_chart.jpg)
 *Example of the Bar Chart showing Goal vs Actual intake.*
 
 ## Tech Stack
